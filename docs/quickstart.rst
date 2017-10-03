@@ -839,8 +839,3 @@ example, Flask-SQLAlchemy provides SQLAlchemy support that makes it simple
 and easy to use with Flask.
 
 For more on Flask extensions, have a look at :ref:`extensions`.
-
-Deploying to a Web Server
--------------------------
-
-Ready to deploy your new Flask app? Go to :ref:`deployment`.
